@@ -1,0 +1,27 @@
+
+
+
+.text1{
+    background-color: rgb(248, 123, 202);
+    margin: 10px;
+}
+.text2{
+    color: blue;
+    margin: 10px;
+    font-size: 35px;
+}
+.text3{
+    background-color: rgb(248, 123, 202);
+    font-size: 30px;
+    margin: 10px;
+}
+.text4{
+    background-color: rgb(0, 255, 102);
+    font-size: 25px;
+    font: bold;
+    margin: 10px;
+}
+.text5{
+    background-color: rgb(248, 123, 202);
+    margin: 10px;
+}

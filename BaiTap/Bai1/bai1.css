@@ -1,0 +1,20 @@
+.cautao1{
+ background-color: red;
+ align-items: center;
+ font-size: 60px;
+ margin: 10px;
+ justify-content: center;
+ text-align: center;
+ color: white;
+}
+.cautao2{
+    background-color: green;
+    font-size: 20px;
+    margin: 10px;
+    color: white;
+}
+.cautao3{
+    color: black;
+    background-color: rgb(255, 145, 0);
+    margin-left: 10px;
+}
